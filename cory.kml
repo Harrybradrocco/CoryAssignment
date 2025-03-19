@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Placemark>
+<name>cory</name>
+<description></description>
+<Point>
+<coordinates>-81.23003482818605,43.0226225806239,0</coordinates>
+</Point>
+</Placemark>
+</kml>
